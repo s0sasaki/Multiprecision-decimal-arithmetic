@@ -1,0 +1,14 @@
+python > 
+python > b=9
+python > def g(n):
+........   return n*8
+........ 
+python > scheme()
+scheme > 
+scheme > (fetch_python "b")
+9
+scheme > (fetch_python "g")
+scheme > ((fetch_python "g") 81)
++648.0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+
