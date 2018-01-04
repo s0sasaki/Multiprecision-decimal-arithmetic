@@ -32,9 +32,9 @@
 (print (/  6 11))
 
 (print "prime:13")
-(print "length_of_repetend:12")
-(print "num_of_subsets:1")
-(print "13-1=12*1")
+(print "length_of_repetend:6")
+(print "num_of_subsets:2")
+(print "13-1=6*2")
 (print (/  1 13))
 (print (/ 10 13))
 (print (/  9 13))
